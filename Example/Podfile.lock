@@ -1,0 +1,14 @@
+PODS:
+  - TwoThumbsSlider (0.1.0)
+
+DEPENDENCIES:
+  - TwoThumbsSlider (from `../`)
+
+EXTERNAL SOURCES:
+  TwoThumbsSlider:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TwoThumbsSlider: d8d7e394a7ad7775100e97027e27fbab1353d39b
+
+COCOAPODS: 0.39.0

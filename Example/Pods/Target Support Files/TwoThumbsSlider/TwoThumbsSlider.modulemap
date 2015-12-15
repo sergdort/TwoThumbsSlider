@@ -1,0 +1,6 @@
+framework module TwoThumbsSlider {
+  umbrella header "TwoThumbsSlider-umbrella.h"
+
+  export *
+  module * { export * }
+}
