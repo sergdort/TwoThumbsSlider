@@ -1,6 +1,5 @@
 # TwoThumbsSlider
 
-[![CI Status](http://img.shields.io/travis/sshulga/TwoThumbsSlider.svg?style=flat)](https://travis-ci.org/sshulga/TwoThumbsSlider)
 [![Version](https://img.shields.io/cocoapods/v/TwoThumbsSlider.svg?style=flat)](http://cocoapods.org/pods/TwoThumbsSlider)
 [![License](https://img.shields.io/cocoapods/l/TwoThumbsSlider.svg?style=flat)](http://cocoapods.org/pods/TwoThumbsSlider)
 [![Platform](https://img.shields.io/cocoapods/p/TwoThumbsSlider.svg?style=flat)](http://cocoapods.org/pods/TwoThumbsSlider)
